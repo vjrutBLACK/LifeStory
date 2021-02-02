@@ -1,0 +1,67 @@
+"use strict";
+exports.__esModule = true;
+exports.editIconColor = exports.roundRobinColors = exports.itemOdd = exports.itemEven = exports.danger = exports.modalTitle = exports.placeHolder = exports.textBlack = exports.matchActionsColor = exports.RefreshControlColor = exports.events_tab_inactive_border = exports.events_tab_inactive_color = exports.events_tab_active_color = exports.headerBackgroundColor = exports.tournamentScreenBackground = exports.matchScreenBackground = exports.match_dateColor = exports.tournamentLocation = exports.tour_borderBottomColor = exports.tabBottomActiveColor = exports.tabBottomInActiveColor = exports.tabBottomActiveBorder = exports.tabBottomInActiveBorder = exports.background = exports.privacy = exports.txtSelect = exports.commonBGTransparentColor = exports.usernameBackground = exports.transparentColor = exports.bottomTabColor = exports.colorLink = exports.btnBgColor = exports.btnTextColor = exports.inputValueColor = exports.inputBorderColor = exports.mainTextColor = exports.backgroundWarring = exports.textWarring = exports.borderWarring = exports.textError = exports.backgroundError = exports.borderError = exports.textSuccessfully = exports.backgroundSuccessfully = exports.borderSuccessfully = exports.borderBottomColor = exports.txtInput = exports.txtLabel = exports.txtUserInfo = exports.txtWallet = exports.txtSignUp = exports.iconGray = exports.activeDot = exports.dot = exports.backgroundInApp = exports.backgroundSplash = exports.androidRefresh = exports.white = void 0;
+var react_native_1 = require("react-native");
+exports.white = 'white';
+exports.androidRefresh = 'gray';
+// splash
+exports.backgroundSplash = '#095BA9';
+exports.backgroundInApp = '#F7F9FE';
+exports.dot = '#095BA930';
+exports.activeDot = '#095BA9';
+exports.iconGray = '#A7A7A7';
+exports.txtSignUp = '#DEAB52';
+exports.txtWallet = '#DC9519';
+exports.txtUserInfo = '#82B1FF';
+exports.txtLabel = '#666666';
+exports.txtInput = '#333333';
+exports.borderBottomColor = '#E8E8E8';
+exports.borderSuccessfully = '#8EE495';
+exports.backgroundSuccessfully = '#E7F9F1';
+exports.textSuccessfully = '#009528';
+exports.borderError = '#FF9EA2';
+exports.backgroundError = '#FAEDED';
+exports.textError = '#FF000D';
+exports.borderWarring = '#FFE086';
+exports.textWarring = '#FFAA00';
+exports.backgroundWarring = '#FFF8E3';
+exports.mainTextColor = '#FFFFFFCC';
+exports.inputBorderColor = '#A8DFFF80';
+exports.inputValueColor = '#ffffff';
+exports.btnTextColor = '#0020C4';
+exports.btnBgColor = '#FFFFFF';
+exports.colorLink = '#51E7FF';
+exports.bottomTabColor = ['#001258', '#1C307A', '#1D3E9A'];
+exports.transparentColor = 'rgba(0,0,0,0.5)';
+exports.usernameBackground = '#00BB84';
+exports.commonBGTransparentColor = '#00218DCC';
+exports.txtSelect = '#197EDE';
+exports.privacy = '#8A9DDD';
+exports.background = '#8AC7DD20';
+// tab
+exports.tabBottomInActiveBorder = '#1337AE';
+exports.tabBottomActiveBorder = '#FFFFFF';
+exports.tabBottomInActiveColor = '#dddddd';
+exports.tabBottomActiveColor = '#ffffff';
+// tournament
+exports.tour_borderBottomColor = '#ccc';
+exports.tournamentLocation = '#FFD500';
+exports.match_dateColor = '#51E7FF';
+// match
+exports.matchScreenBackground = '#00218D59';
+exports.tournamentScreenBackground = '#00218DCC';
+exports.headerBackgroundColor = '#001258';
+exports.events_tab_active_color = '#fff';
+exports.events_tab_inactive_color = '#cccccc';
+exports.events_tab_inactive_border = '#cccccc80';
+exports.RefreshControlColor = [react_native_1.Platform.OS === 'android' ? exports.androidRefresh : exports.white];
+exports.matchActionsColor = ['#fff0d1', '#d3e2ff', '#fb4a59', '#8294f1', '#ffd500'];
+exports.textBlack = '#000000';
+exports.placeHolder = '#A7A7A7';
+exports.modalTitle = '#00218D';
+exports.danger = '#fb4a59';
+// rating
+exports.itemEven = '#29305F30';
+exports.itemOdd = '#797EA230';
+exports.roundRobinColors = ['#FFAC05', '#FC6905', '#1167E7', '#666666'];
+exports.editIconColor = '#FFD500';
