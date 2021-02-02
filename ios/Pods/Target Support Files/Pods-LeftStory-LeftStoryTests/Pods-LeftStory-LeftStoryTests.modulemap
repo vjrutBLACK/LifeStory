@@ -1,0 +1,6 @@
+module Pods_LeftStory_LeftStoryTests {
+  umbrella header "Pods-LeftStory-LeftStoryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

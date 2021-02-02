@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "git.ignoreLimitWarning": true
+}
