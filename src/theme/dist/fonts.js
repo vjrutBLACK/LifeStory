@@ -1,0 +1,15 @@
+"use strict";
+exports.__esModule = true;
+exports.maliSemiBoldItalic = exports.maliSemiBold = exports.maliRegular = exports.maliMediumItalic = exports.maliMedium = exports.maliLightItalic = exports.maliLight = exports.maliItalic = exports.maliExtraLightItalic = exports.maliExtraLight = exports.maliBoldItalic = exports.maliBold = void 0;
+exports.maliBold = 'Mali-Bold';
+exports.maliBoldItalic = 'Mali-BoldItalic';
+exports.maliExtraLight = 'Mali-ExtraLight';
+exports.maliExtraLightItalic = 'Mali-ExtraLightItalic';
+exports.maliItalic = 'Mali-Italic';
+exports.maliLight = 'Mali-Light';
+exports.maliLightItalic = 'Mali-LightItalic';
+exports.maliMedium = 'Mali-Medium';
+exports.maliMediumItalic = 'Mali-MediumItalic';
+exports.maliRegular = 'Mali-Regular';
+exports.maliSemiBold = 'Mali-SemiBold';
+exports.maliSemiBoldItalic = 'Mali-SemiBoldItalic';

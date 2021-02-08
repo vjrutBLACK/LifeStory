@@ -1,0 +1,12 @@
+export const maliBold = 'Mali-Bold';
+export const maliBoldItalic = 'Mali-BoldItalic';
+export const maliExtraLight = 'Mali-ExtraLight';
+export const maliExtraLightItalic = 'Mali-ExtraLightItalic';
+export const maliItalic = 'Mali-Italic';
+export const maliLight = 'Mali-Light';
+export const maliLightItalic = 'Mali-LightItalic';
+export const maliMedium = 'Mali-Medium';
+export const maliMediumItalic = 'Mali-MediumItalic';
+export const maliRegular = 'Mali-Regular';
+export const maliSemiBold = 'Mali-SemiBold';
+export const maliSemiBoldItalic = 'Mali-SemiBoldItalic';
